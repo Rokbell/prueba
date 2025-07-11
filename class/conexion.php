@@ -1,4 +1,5 @@
 <?php
+
     $servername = "localhost";
     $username = "rok";
     $password = "admin";
@@ -15,4 +16,5 @@
 
     // Close connection
     $conn->close();
+    
 ?>
